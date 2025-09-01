@@ -6,11 +6,11 @@ A mini app for Base & Farcaster that turns your social graph into a source of bo
 
 **🤑 Network Capitalization:** Discover the total value held by you and your followers and share an epic idea of how you could spend your money.
 
-**📈 Trends**: Track the exact moves your network is making: buys, sells, swaps, mints, and airdrops. See what the smart money is doing before the crowd catches on.
+**📈 Trends:** Track the exact moves your network is making: buys, sells, swaps, mints, and airdrops. See what the smart money is doing before the crowd catches on.
 
-**💡 AI Insights**: Our AI analyzes onchain patterns from your network to surface hidden gems, emerging narratives, and alpha opportunities you'd never find manually.
+**💡 AI Insights:** Our AI analyzes onchain patterns from your network to surface hidden gems, emerging narratives, and alpha opportunities you'd never find manually.
 
-**🔔 Smart Notifications**: Get instant alerts when your network makes moves. Be the first to know about trending tokens, whale accumulations, and market-moving activities.
+**🔔 Smart Notifications:** Get instant alerts when your network makes moves. Be the first to know about trending tokens, whale accumulations, and market-moving activities.
 
 ## 🔗 Artifacts
 
